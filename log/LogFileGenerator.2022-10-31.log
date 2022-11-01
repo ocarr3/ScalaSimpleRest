@@ -1,0 +1,6 @@
+21:09:35.507 [sbt-bg-threads-1] ERROR HelperUtils.ObtainConfigReference$ - Failed to retrieve config entry randomLogGenerator for reason com.typesafe.config.ConfigException$Missing: merge of system properties,application.conf @ jar:file:/C:/Users/omarc/Desktop/ScalaRESTrequests/target/bg-jobs/sbt_688a1560/job-1/target/fbba6ed2/629f2f6f/scalarestrequests_3-0.1.0-SNAPSHOT.jar!/application.conf: 1: No configuration setting found for key 'randomLogGenerator'
+21:11:54.461 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+21:11:54.463 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 21:00:00.000 Upper: 01:00:00.000
+21:16:16.127 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+21:16:16.129 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 21:00:00.000 Upper: 01:00:00.000
+21:16:18.478 [sbt-bg-threads-1] INFO  clientLog$ - Lambda return: {"statusCode": 400, "body": "{\"message\": \"No strings found in interval\", \"hash string\": \"[]\"}"}

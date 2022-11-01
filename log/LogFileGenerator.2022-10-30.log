@@ -1,0 +1,12 @@
+02:27:54.503 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+02:27:54.505 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 1 Upper: 200
+02:28:19.942 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+02:28:19.944 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 06:00:00.000 Upper: 00:01:00.000
+13:51:09.720 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+13:51:09.725 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 18:23:27.000 Upper: 01:00:00.000
+13:51:36.949 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+13:51:36.951 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 18:22:27.000 Upper: 01:00:00.000
+13:52:31.883 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+13:52:31.885 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 17:57:16.000 Upper: 01:00:00.000
+16:08:55.602 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+16:08:55.604 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 20:50:00.000 Upper: 20:52:33.826

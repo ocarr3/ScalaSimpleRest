@@ -1,0 +1,2 @@
+03:07:37.061 [sbt-bg-threads-1] INFO  clientLog$ - Invoking lambda API Gateway using timestamps given as arguments. They must be of HH:MM:SS.SSS format.
+03:07:37.063 [sbt-bg-threads-1] INFO  clientLog$ - Lower: 06:00:00.000 Upper: 00:01:00.000

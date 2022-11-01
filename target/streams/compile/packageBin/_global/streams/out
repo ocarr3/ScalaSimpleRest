@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\scalarestrequests_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	clientLog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\clientLog$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	clientLog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\clientLog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	clientLog.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\clientLog.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils\CreateLogger$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\CreateLogger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils\CreateLogger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\CreateLogger.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils\CreateLogger.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\ObtainConfigReference$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils\ObtainConfigReference$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\ObtainConfigReference.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils\ObtainConfigReference.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelperUtils\ObtainConfigReference.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\HelperUtils\ObtainConfigReference.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\logback-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\omarc\Desktop\ScalaRESTrequests\target\scala-3.2.1\classes\main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
